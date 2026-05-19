@@ -33,8 +33,9 @@ langchain==0.3.14
 langchain-core==0.3.63
 langchain-community==0.3.14
 langchain-text-splitters==0.3.4
+ollama==0.4.7
 
-# Vector store & docs
+# Vector store & documents
 
 chromadb==0.5.23
 pypdf==5.1.0
@@ -44,7 +45,7 @@ pypdf==5.1.0
 prometheus-client==0.21.1
 structlog==24.4.0
 
-# HTTP client
+# HTTP Client
 
 httpx==0.28.1
 
